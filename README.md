@@ -2,7 +2,7 @@
 
 疫苗真实世界研究平台交互 Demo，使用合成演示数据。
 
-- [在线体验](https://huiwen7.github.io/vax-rwe-demo/)
+- [在线体验](https://vaxrwe.github.io/)
 - [下载完整 React 源码](./vax-rwe-source.zip)
 - 本地使用：下载本仓库 ZIP，解压后用 Chrome 或 Edge 双击 `index.html`。无需安装或启动服务。
 
@@ -22,3 +22,12 @@ npm run dev
 ```
 
 详细说明和合成示例表格见源码包内的 README.md 和 public/samples/。
+
+
+
+
+
+
+
+
+
